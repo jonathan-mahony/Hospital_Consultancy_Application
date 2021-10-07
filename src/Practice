@@ -1,0 +1,11 @@
+Consultant, Jim, 12, 0860317434, Cardiology
+Patient, James, 25, 0860317494, Heart problems, 3
+Visit, 23/03/2018, Initial consultation
+--------------------------------------------------
+Consultant, John, 13, 0891234673, Cancer
+Patient, Darragh, 26, 0872291494, Skin Cancer, 5
+Visit, 12/08/2020, Operation
+--------------------------------------------------
+Consultant, Patrick, 14, 0851927393, Phsyio
+Patient, Max, 27, 0860317492, Pulled ligaments, 2
+Visit, 05/11/2020, Patient must return in two weeks
